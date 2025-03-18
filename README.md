@@ -1,2 +1,1 @@
-# challenge-amigo-secreto
-Challenge de amigo secreto
+<h1>Selecciona amigo secreto</h1>
